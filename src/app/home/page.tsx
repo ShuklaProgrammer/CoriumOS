@@ -16,7 +16,7 @@ export default function HomePage() {
         <button className="group relative z-10 cursor-pointer overflow-hidden rounded border md:px-4 px-2 py-2 text-white">
           <span className="absolute inset-0 z-0 origin-right scale-x-0 transform bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 transition-transform duration-500 ease-out group-hover:scale-x-100"></span>
           <span className="relative z-10 transition-all duration-300 group-hover:text-black text-sm md:text-base">
-            Contact Us Today
+            Contact Me Today
           </span>
         </button>
       </div>
