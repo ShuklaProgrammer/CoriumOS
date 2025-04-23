@@ -11,7 +11,7 @@ export default function HomePage() {
 
       <div className="absolute top-0 left-0 z-10 flex w-full items-center justify-between p-6">
         <h1 className="text-2xl font-bold text-white md:text-3xl lg:text-4xl cursor-pointer">
-          CoriumOS
+          DEV.
         </h1>
         <button className="group relative z-10 cursor-pointer overflow-hidden rounded border md:px-4 px-2 py-2 text-white">
           <span className="absolute inset-0 z-0 origin-right scale-x-0 transform bg-gradient-to-r from-purple-500 via-pink-500 to-yellow-500 transition-transform duration-500 ease-out group-hover:scale-x-100"></span>
